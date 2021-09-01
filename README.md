@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Primary owner/contributor: W.Bedford
+Primary owner/contributor: W.Bedford, Community School of Naples
 
 ## Available Scripts
 
